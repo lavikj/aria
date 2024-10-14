@@ -1,7 +1,7 @@
 Made with ❤️ by Lavik Jain, Dinesh Vasireddy, Pranav Ramesh, and Nikita Mounier
 
-https://ariamed.vercel.app/chatroom
-https://youtu.be/lL6MhEyyubA
+[Aria](https://ariamed.vercel.app/chatroom)  
+[Demo](https://youtu.be/lL6MhEyyubA)
 
 ## Inspiration 💡
 
